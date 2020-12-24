@@ -1,0 +1,10 @@
+# irnore folder
+tmp/
+
+# ignore part file extension
+*_old
+*_backup
+
+# ignore file
+Thumbs.db
+*.DS_Store
